@@ -105,7 +105,7 @@ class Solution {
 
 Chrome 웹스토어에서 설치할 수 있습니다.
 
-[Chrome 웹스토어 링크 추가 예정]
+[Chrome 웹스토어 링크](https://chromewebstore.google.com/detail/%EC%BD%94%ED%85%8C-%EC%BD%94%EB%93%9C%EB%8B%A4%EB%93%AC%EA%B8%B0/mojbamlnhjomhjhnfmnoncocjmlhioig?hl=ko&authuser=0)
 
 ---
 
